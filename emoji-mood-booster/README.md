@@ -2,7 +2,7 @@
 
 # Emoji Mood Booster
 ## Description: 
-##Emoji Mood Booster is a simple web application that helps users express their current mood using emojis. Users can select from a variety ##of emojis representing different moods, and a corresponding inspirational quote is displayed based on their selection.
+## Emoji Mood Booster is a simple web application that helps users express their current mood using emojis. Users can select from a variety of emojis representing different moods, and a corresponding inspirational quote is displayed based on their selection.
 
 ## Output
 
