@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,300&family=Roboto+Mono:wght@700&display=swap');
+
+.container{
+  /* background-color: #353535; */
+  color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  /* border: 2px solid white; */
+  /* display: flex; */
+}
+
+hr{
+  width: 100%;
+}
+.container h1{
+  text-align: center;
+}
+
+.container h2{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.main{
+  /* border: 2px solid green; */
+  display: flex;
+  gap: 34px;
+  justify-content: center;
+}
+
+.myEmoji span{
+  font-size: 45px;
+  /* border-radius: 50%; */
+  cursor: pointer;
+}
+
+.myText{
+  margin-top: 23px;
+}
+
+.myText h2{
+  text-align: center;
+}
+
+/* .myEmoji span:hover{
+  border-bottom: 2px solid white;
+  transition: 2s ease-in-out;
+} */
+
+.myEmoji{
+  border: 2px solid transparent;
+  padding: 15px;
+  transition: border-bottom 0.3s ease;
+}
+
+.myEmoji:hover{
+  border-bottom-color: white;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  margin-inline: 12px;
+  justify-content: space-between;
+}
+
+.button {
+  padding: 12px 24px;
+  background-color: #353535;
+  color: #fff;
+  border: 1px solid white;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  border: 1px solid black;
+  color: black;
+  background-color: white;
+}
+
+
+@media (max-width: 770px) {
+  .myEmoji{
+    padding: 0;
+  }
+
+}
