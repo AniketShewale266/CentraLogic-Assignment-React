@@ -14,7 +14,7 @@
 ### After Adding All Expenses
 ![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/7b67fb0f-d6f9-4ac2-9687-9173038adee2)
 
-### Adter Deleting Expenses
+### After Deleting Expenses
 ![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/6b0375f6-43f7-4cde-a4a4-51f60366f833)
 
 
