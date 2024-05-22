@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,300&family=Roboto+Mono:wght@700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    font-family: "Roboto Mono", monospace;
+    /* font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal; */
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    border: none;
+    border-radius: 15px;
+    background-color: #353535;
+}
+
+.heading{
+    text-align: center;
+    margin: 15px;
+}
+.top-part{
+    /* border: 2px solid red; */
+    margin-top: 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    /* height: 500px; */
+}
+
+.bottom-part{
+    /* border: 2px solid green; */
+    margin-top: 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    gap: 24px;
+    /* height: 500px; */
+}

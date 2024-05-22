@@ -1,0 +1,269 @@
+.expense-details{
+    width: 30%;
+    height: 250px;
+    border-radius: 15px;
+    background-color: #353535;
+}
+.expense-details h2{
+    text-align: center;
+    margin-top: 23px;
+}
+.expense-left{
+    text-align: center;
+    padding: 15px;
+    /* border: 2px solid white; */
+}
+
+.text-center{
+    font-size: 20px;
+}
+.expense-left h3{
+    font-size: 20px;
+}
+.expense-right h3{
+    font-size: 20px;
+}
+.expense-right{
+    text-align: center;
+    padding: 15px;
+    /* border: 2px solid white; */
+}
+.my-expense{
+    /* border: 2px solid green; */
+    margin-top: 1rem;
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    align-items: center;
+}
+.user-income{
+    width: 50%;
+    height: 250px;
+    border-radius: 15px;
+    background-color: #353535;
+}
+
+.user-income h2{
+    text-align: center;
+    margin-top: 23px;
+}
+
+.user-content{
+    display: flex;
+    margin-top: 2rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.user-content label{
+    font-size: 18px;
+}
+
+.user-content input{
+    padding: 8px 2px;
+    color: #353535;
+    outline: none;
+    margin-left: 5px;
+    font-size: 15px;
+    width: 40%;
+    border: none;
+}
+.my-button{
+    margin-top: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .btn{
+    padding: 15px 15px;
+    color: #353535;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-size: 15px;
+} */
+
+.btn {
+    padding: 12px 24px;
+    background-color: #fff;
+    color: #353535;
+    /* border: 1px solid white; */
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    border: 1px solid white;
+    /* border: none; */
+    outline: none;
+    color: #fff;
+    background-color: #3d3b3b;
+  }
+
+.add-expense{
+    width: 25%;
+    height: 300px;
+    border-radius: 15px;
+    background-color: #353535;
+}
+
+.cards-container{
+    padding: 12px;
+    /* border: 2px solid green; */
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 15px;
+    gap: 12px;
+}
+
+.expense-cards{
+    width: 55%; 
+    /* border: 2px solid red; */
+    /* background-color: #353535; */
+    /* height: 400px; */
+    border-radius: 15px;
+}
+
+.expense-cards h2{
+    margin-left: 15px;
+}
+
+.my-card{
+    /* border: 2px solid #212121; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 15px;
+    width: 225px;
+    height: 150px;
+    background-color: #444343;
+}
+
+.my-card h4{
+    text-align: center;
+}
+
+.my-card button{
+    padding: 8px 15px;
+    background-color: #fff;
+    color: #353535;
+    cursor: pointer;
+    margin-top: 12px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.my-card button:hover {
+    /* border: 1px solid white; */
+    outline: none;
+    color: #fff;
+    background-color: #bd7979;
+}
+
+.add-expense h2{
+    text-align: center;
+}
+.expense-content{
+    display: flex;
+    justify-content: center;
+    margin-top: 18px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.my-expense label{
+    font-size: 18px;
+}
+
+.my-expense input{
+    padding: 8px 2px;
+    color: #353535;
+    outline: none;
+    margin-left: 5px;
+    font-size: 15px;
+    width: 80%;
+}
+
+.my-expense .name-input{
+    margin-left: 25px;
+}
+
+.add-expense h2{
+    margin-top: 24px;
+}
+
+.expense-btn{
+    padding: 12px 15px;
+    cursor: pointer;
+    margin-top: 18px;
+    background-color: #fff;
+    color: #353535;
+    outline: none;
+    border-radius: 10px;
+    border: none;
+    font-size: 15px;
+    transition: background-color 0.3s ease;
+}
+
+.expense-btn:hover {
+    border: 1px solid white;
+    outline: none;
+    color: #fff;
+    background-color: #3d3b3b;
+}
+
+/* Mobile Responsive */
+
+@media (max-width: 1200px) {
+    .expense-content .my-expense{
+        width: 80%;
+    }
+    .expense-btn{
+        padding: 10px 9px;
+        font-size: 13px;
+    }
+    .btn{
+        padding: 10px 9px;
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 700px) {
+    .top-part{
+        flex-direction: column;
+    }
+    .expense-details{
+        width: 65%;
+    }
+    .user-income{
+        width: 65%;
+    }
+    .bottom-part{
+        flex-direction: column-reverse;
+    }
+    .expense-cards{
+        width: 100%;
+    }
+    .expense-cards h2{
+        text-align: center;
+    }
+    .cards-container{
+        display: flex;
+        justify-content: center;
+    }
+    .add-expense{
+        width: 65%;
+        margin: auto;
+    }
+    .user-content label {
+        font-size: 12px;
+    }
+}
