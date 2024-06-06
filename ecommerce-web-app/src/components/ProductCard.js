@@ -1,16 +1,13 @@
-import React, { useRef } from 'react';
-import { useCart } from '../contexts/CartContext';
+import React, { useRef, useContext } from 'react';
+import CartContext from '../contexts/CartContext';
 
 function ProductCard({ img, title, price }) {
   const quantityRef = useRef(1);
-  const { dispatch } = useCart();
+  const { addToCart } = useContext(CartContext);
 
   const handleAddToCart = () => {
     const quantity = parseInt(quantityRef.current.value);
-    dispatch({
-      type: 'ADD_TO_CART',
-      payload: { img, title, price, quantity },
-    });
+    addToCart({ img, title, price, quantity });
   };
 
   return (

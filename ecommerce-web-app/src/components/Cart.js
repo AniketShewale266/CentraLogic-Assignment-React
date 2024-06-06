@@ -1,9 +1,9 @@
-import React from 'react';
-import { useCart } from '../contexts/CartContext';
+import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
+import CartContext from '../contexts/CartContext';
 
 function Cart() {
-  const { cart } = useCart();
+  const { cart } = useContext(CartContext);
   const totalPrice = cart.reduce((acc, item) => acc + item.price * item.quantity, 0);
 
   return (
@@ -12,16 +12,20 @@ function Cart() {
       {cart.map((item, index) => (
         <div key={index}>
           <table border={1}>
-            <tr>
-              <th>Product Name</th>
-              <th>Quantity</th>
-              <th>Price</th>
-            </tr>
-            <tr>
-              <td>{item.title} </td>
-              <td>{item.quantity}</td>
-              <td>${item.price}</td>
-            </tr>
+            <thead>
+              <tr>
+                <th>Product Name</th>
+                <th>Quantity</th>
+                <th>Price</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>{item.title}</td>
+                <td>{item.quantity}</td>
+                <td>${item.price}</td>
+              </tr>
+            </tbody>
           </table>
         </div>
       ))}
