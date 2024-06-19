@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+# Assignment 6: Create an application utilizing the concepts including useState, Routing, UseRef hook.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Output
 
-## Available Scripts
+### Home Page of Web App 
+![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/4b54c87c-76c6-4a93-85c2-9c6ca8ad9d3f)
 
-In the project directory, you can run:
 
-### `npm start`
+### Rock Paper Scissor Game
+![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/39f6a4b2-3d47-42c7-ba8a-ff2e9dd11d32)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#Tie
+![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/d5101efe-849f-4320-a3f6-a84f7dee2d3d)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/a2aa1142-7c74-4bfb-b542-bf1681a09415)
 
-### `npm test`
+![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/6303ed04-4def-4e2c-8a04-2cc2b4ca1497)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Link: https://demoapprouting.netlify.app/
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
