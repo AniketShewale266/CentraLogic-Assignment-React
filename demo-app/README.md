@@ -1,4 +1,4 @@
-# Assignment 6: Create an application utilizing the concepts including useState, Routing, UseRef hook.
+# Assignment 6: An application utilizing the concepts including useState, Routing, UseRef hook.
 
 ## Output
 
