@@ -9,7 +9,6 @@
 ### Rock Paper Scissor Game
 ![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/39f6a4b2-3d47-42c7-ba8a-ff2e9dd11d32)
 
-#Tie
 ![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/d5101efe-849f-4320-a3f6-a84f7dee2d3d)
 
 ![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/a2aa1142-7c74-4bfb-b542-bf1681a09415)
