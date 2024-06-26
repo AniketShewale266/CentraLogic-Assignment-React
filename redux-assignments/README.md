@@ -1,7 +1,7 @@
 # Assignment 6: TextTransformer
 TextTransformer is a powerful text manipulation tool that allows you to easily transform and analyze your text. With features like converting text to uppercase or lowercase, capitalizing text, clearing text, extracting emails, removing extra spaces, and providing word and character counts, TextMaster makes text processing simple and efficient.
 
-## Technology Used:
+## Technology Used: HTML, CSS, React, Redux
 ## Redux is used for state management
 
 ## Output
