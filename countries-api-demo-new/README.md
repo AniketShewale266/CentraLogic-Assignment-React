@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# CountriesAPI Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Features: 
+### Shimmer Effect
+### Search By Name
+### Filter by Region
+### Dark Mode/Light Mode
 
-## Available Scripts
+## Output
 
-In the project directory, you can run:
+### Light Shimmer Effect
+![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/6de2f87b-7a6e-4231-881b-f5a3fbbc748a)
 
-### `npm start`
+### Dark Shimmer Effect
+![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/9d252659-dda9-4451-a1c2-ac129d00f4df)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Light Mode Home Page
+![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/c6e87cd4-16fa-4fc6-8d14-2444a420f375)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Dark Mode Home Page
+![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/3e060959-e07e-49a6-bfe9-a27594320d8b)
 
-### `npm test`
+### Search by Name
+![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/1e6c9ff4-667e-4997-aafe-c87bba2e8a06)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Filter by Region
+![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/81df688c-623c-4872-9102-dac22783ab4d)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Link: https://countries-api-reactappnew.netlify.app/
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
