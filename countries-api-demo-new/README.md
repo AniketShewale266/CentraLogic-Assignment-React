@@ -1,5 +1,7 @@
 # CountriesAPI Project
 
+## Technology Used: HTML, CSS, React 
+## Concepts Used: useState hook, Fetch API, LocalStorage
 ### Features: 
 ### Shimmer Effect
 ### Search By Name
