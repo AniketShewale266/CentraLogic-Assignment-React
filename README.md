@@ -5,3 +5,4 @@
 ## Assignment 3: Expense Tracker Web App
 ## Assignment 4: Portfolio Website
 ## Assignment 5: E Commerce Web App
+## Assignment 6: Text Manipulation using Redux
