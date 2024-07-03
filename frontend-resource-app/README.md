@@ -1,26 +1,26 @@
 # Frontend Resource Project
 ## Desription: ResourceHub is a frontend web application designed to help developers quickly find and access various frontend development resources. The application categorizes resources into different types such as illustrations, icons, fonts, CSS libraries, JavaScript libraries, and more. Users can easily navigate through these categories and access the relevant websites. Additionally, users can mark resources as favorites for quick access later. The application is built using React and utilizes Redux for state management.
 
-### Key Features:
-###Category-Based Navigation:
+## Key Features:
+##Category-Based Navigation:
 Users can browse resources by selecting from different categories such as Illustrations, 3D Icons, 2D Icons, Fonts, CSS Libraries, and JavaScript Libraries.
 Each category displays a list of resources related to that category.
 
-###Resource Cards:
+##Resource Cards:
 Resources are displayed in visually appealing cards.
 Each card includes the resource's image, name, description, category, rating, and a link to visit the website.
 
-###Visit Website:
+##Visit Website:
 Users can click a button on each resource card to open the resource's website in a new tab.
 
-###Favorites Management:
+##Favorites Management:
 Users can add resources to their favorites by clicking the "Add to Favorites" button on the resource card.
 The favorite resources are stored in the Redux state and can be accessed quickly.
 
-###Responsive Design:
+##Responsive Design:
 The application is designed to be responsive, ensuring a seamless experience across different devices and screen sizes.
 
-###Redux State Management:
+##Redux State Management:
 The application uses Redux to manage the state of categories and favorite resources.
 Redux Toolkit is utilized for efficient state management and to simplify the implementation of Redux logic.
 
