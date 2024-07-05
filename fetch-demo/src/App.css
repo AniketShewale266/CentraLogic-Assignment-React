@@ -1,0 +1,36 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  margin-inline: 15px;
+  display: flex;
+  /* border: 2px solid red; */
+  justify-content: space-between;
+}
+
+.get-container{
+  display: flex;
+  margin-top: 5px;
+  gap: 10px;
+  /* max-width: 50%; */
+  max-width: 800px;
+  /* border: 2px solid green; */
+  /* padding: 5px; */
+  flex-wrap: wrap;
+}
+.cards{
+  border: 2px solid #353535;
+}
+.cards img{
+  width: 50px;
+  height: 50px;
+}
+
+.form-container{
+  /* width: 50%; */
+  padding: 10px;
+  /* border: 2px solid red; */
+}
