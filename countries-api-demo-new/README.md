@@ -1,14 +1,14 @@
-### Countries API Project
+## Countries API Project
 
-## Technology Used: HTML, CSS, React 
-## Concepts Used: useState hook, Fetch API, localStorage, Context API
+### Technology Used: HTML, CSS, React 
+### Concepts Used: useState hook, Fetch API, localStorage, Context API
 
-## Features:
-## Shimmer Effect
-## Toggle Dark/Light Mode
-## Filter by Name/Region
+### Features:
+### Shimmer Effect
+### Toggle Dark/Light Mode
+### Filter by Name/Region
 
-## Output
+### Output
 
 ### Shimmer Effect in Light Mode
 ![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/dc18fd5c-c67c-45ae-bbfb-8968cb8f0d1a)
