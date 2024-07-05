@@ -1,33 +1,19 @@
-# CountriesAPI Project
+# Fetch API Example
 
 ## Technology Used: HTML, CSS, React 
-## Concepts Used: useState hook, Fetch API, LocalStorage for dark / light theme
-### Features: 
-### Shimmer Effect
-### Search By Name
-### Filter by Region
-### Dark Mode/Light Mode
+## Concepts Used: useState hook, useRef hook, Fetch API
 
 ## Output
 
-### Light Shimmer Effect
-![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/6de2f87b-7a6e-4231-881b-f5a3fbbc748a)
+### GET Request
+![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/77e2a773-c538-495d-b460-0dab285d700c)
 
-### Dark Shimmer Effect
-![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/9d252659-dda9-4451-a1c2-ac129d00f4df)
+### Post Request
+![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/48644af3-cc69-4c58-9614-e945faa9e858)
 
-### Light Mode Home Page
-![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/c6e87cd4-16fa-4fc6-8d14-2444a420f375)
-
-### Dark Mode Home Page
-![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/3e060959-e07e-49a6-bfe9-a27594320d8b)
-
-### Search by Name
-![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/1e6c9ff4-667e-4997-aafe-c87bba2e8a06)
-
-### Filter by Region
-![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/81df688c-623c-4872-9102-dac22783ab4d)
+### Put Request
+![image](https://github.com/AniketShewale266/CentraLogic-Assignment-React/assets/79089166/5929b994-5b4e-40a0-8da9-bd2f40383997)
 
 
-Link: https://countries-api-reactappnew.netlify.app/
+Link: https://fetchapi-demo.netlify.app/
 
